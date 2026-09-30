@@ -34,3 +34,8 @@ Publicação em 29/09/2026. 10 dias úteis (arts. 42 e 12-A da Lei 9.099); conta
 - Declaração de hipossuficiência (Doc. 1) refeita: **preencher** `R$ [INFORMAR]` (mercado/farmácia estimados, sem prova) e **[CONFERIR]** data de abertura da conta Asaas (origem do saldo de R$ 32.744,95).
 - Numeração: Doc. 1 declaração; Doc. 2 advocacia (CNPJ, DAS, recebíveis); Doc. 3 IRPF + contracheque; Docs. 4–7 provas da entrega.
 - Pendências: boleto da escola 2026 (não localizado no e-mail/Drive); explicar "Planserv/Cônjuge" no contracheque versus "sem cônjuge" no IRPF; comprovante de pagamento da DARF de multas PGDAS-D (R$ 106,70); considerar recolher o preparo em paralelo (art. 42, § 1º, Lei 9.099/95) para evitar deserção se a gratuidade for negada.
+
+## Reestruturação (30/09/2026, noite)
+- **Declaração integrada ao RI:** não há mais arquivo separado. A 1ª parte da peça (endereçada ao Juízo da 20ª Vara) traz tempestividade, o tópico II de gratuidade e a DECLARAÇÃO da Recorrente sob as penas da lei; depois de quebra de página vêm as **Razões**, endereçadas à Turma Recursal.
+- **Nova numeração:** Doc. 1 comprovantes da advocacia; Doc. 2 IRPF + contracheques jul/ago 2026; Docs. 3 a 6 provas da entrega (recibo, ordem interna, caixa, DANFe). Anexos: `03_Anexos_Docs_3_a_6_Entrega_15-07-2026.pdf`.
+- Pendentes no texto: `R$ [INFORMAR]` (mercado/farmácia), `[CONFERIR]` (data da conta Asaas), data do protocolo.
