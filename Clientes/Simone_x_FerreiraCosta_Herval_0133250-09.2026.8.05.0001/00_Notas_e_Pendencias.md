@@ -1,22 +1,29 @@
 # Simone Murta Martins × Ferreira Costa e Herval — Recurso Inominado
 
-**Processo:** 0133250-09.2026.8.05.0001 · 20ª VSJE do Consumidor de Salvador (PROJUDI) · valor da causa R$ 10.399,90
-**Peças:** `01_Recurso_Inominado_...docx/.pdf` (com pedido de gratuidade) e `02_Declaracao_Hipossuficiencia_Simone.docx/.pdf` (para assinar).
+**Processo:** 0133250-09.2026.8.05.0001 · 20ª VSJE do Consumidor de Salvador (PROJUDI)
+**Peças:** `01_Recurso_Inominado_...docx/.pdf` · `02_Declaracao_Hipossuficiencia_Simone.docx/.pdf` · `03_Anexos_Docs_4_a_7_Entrega_15-07-2026.pdf`
 
-## Prazo (conferir no PROJUDI)
-- Sentença de **improcedência: 25/09/2026**. Disponibilizada 28/09; publicada **29/09/2026** (Jusbrasil/DJe).
-- Recurso inominado: **10 dias úteis** (arts. 42 e 12-A da Lei 9.099/95). Contando de 30/09 e descontado o feriado de 12/10, o último dia seria **14/10/2026**. Não deixe para o fim; e confirme a contagem no sistema.
-- Preparo: normalmente em 48 horas da interposição (art. 42, § 1º). Com o pedido de gratuidade dentro do recurso, o art. 99, § 7º, CPC dispensa a comprovação prévia do preparo. Por segurança, junte a declaração e os comprovantes no mesmo protocolo do recurso.
+## Em que me baseei (tudo lido; nada por dedução)
+- **Sentença** (PDF de imagem, lida página a página): extingue sem mérito a substituição e a restituição (perda do objeto) e julga **improcedente** o dano moral. Trechos usados: "ao tomarem ciência definitiva da demanda e após o regular trâmite das tratativas entre lojista e fabricante"; "dissabor inerente às relações comerciais cotidianas"; "solucionada na via administrativa/judicial sem prejuízos materiais definitivos". **Atenção:** a sentença diz "administrativa/judicial", e não só "administrativa".
+- **Contestações** da Ferreira Costa (27/07) e da Herval (28/07), inicial, réplicas, e-mails (docs 07, 09, 10 da pasta), comprovante do PROJUDI (ajuizamento em 18/06/2026), DANFe e comprovante de entrega da Ferreira Costa.
+- **Fotos de 15/07/2026** da pasta `Troca 15.07.26` (caixa com etiqueta, ordem interna, recibo, DANFe), lidas por imagem.
+- Datas e dias conferidos por cálculo: 30/03→15/07 = 107 d; 02/04→15/07 = 104 d; 02/04→10/06 = 69 d; 02/05→15/07 = 74 d; 12/06→15/07 = 33 d; **18/06→15/07 = 27 d**.
 
-## O que NÃO consegui fazer / preciso de você
-1. **Não tenho a sentença nem os autos baixados.** Não estão no Drive nem no ambiente da sessão (o download ficou só no seu computador). O recurso foi montado a partir da inicial, das defesas, das réplicas e dos e-mails da pasta `SIMONE X FERREIRA COSTA`, e do que você me disse sobre a fundamentação. Há **um `[CONFERIR]` no item III**, para transcrever o trecho da sentença. Se você soltar o PDF dos autos na pasta, eu ajusto os argumentos ao texto exato do juízo.
-2. **"Guia do PROJUDI":** não entendi qual documento é. Não achei nada com esse nome. Diga qual é (extrato? relatório de processos? guia de custas?) e eu incluo como Doc. 3.
-3. **Comprovantes de tributos:** achei só o **DAS do Simples Nacional de julho/2026** (R$ 264,47, vencimento 20/08/2026) e o comprovante de agendamento, na pasta `Simples nacional`. Ambos estão no nome da **Murta Martins Sociedade Individual de Advocacia (CNPJ 52.243.754/0001-76)**, e não no seu CPF. Se tiver DAS de outros meses e o **informe de rendimentos/IRPF em seu nome**, junte: o arquivo `01548804509-IRPF-A-2026-2025...` da pasta parece ser de outra pessoa (CPF diferente do seu); não usei.
-4. A **declaração de hipossuficiência** repete o que você disse (renda média de ~R$ 5.000 e que a advocacia ainda não garante o sustento). **Confira se corresponde à realidade e aos documentos** antes de assinar; a falsidade pode levar a multa (art. 100, parágrafo único, CPC). Se o juiz achar o quadro incompatível com a estrutura do escritório, pode pedir mais provas (art. 99, § 2º).
+## O que NÃO consegui ler
+- **Processo na íntegra:** o arquivo `0206792-31.2024.8.05.0001.pdf` (122 MB) na pasta SENTENÇA **não pôde ser lido**: passa do limite de 10 MB da minha ferramenta de download e não tem camada de texto. Além disso, **o número no nome do arquivo é o do processo de Daniela Lessa (0206792-31.2024), e não o desta ação (0133250-09.2026)**. Pode ter subido o arquivo errado. Se quiser que eu leia os autos, envie o PDF deste processo, separado em partes menores (até 10 MB) ou já com texto pesquisável.
+- Por isso, **não confirmei** se as fotos/ordem/recibo (Docs. 4 a 7) já estão nos autos, nem se as rés juntaram algum e-mail de "tratativas". A contestação da Herval cita imagens ("Vejamos:") que não aparecem no texto extraído.
 
-## Pontos de cuidado no recurso
-- **Contagem de dias:** a réplica de 28/07 diz "107 dias" entre a primeira reclamação (02/04) e a troca (15/07). O correto é **104 dias** contados de 02/04 e **107 dias** contados do primeiro contato, em 30/03 (WhatsApp). O recurso já usa os dois números corretamente.
-- **Precedentes do STJ (REsp 1.634.851/RJ e REsp 1.737.412/SE)** vêm da sua inicial. Não consegui conferi-los em stj.jus.br neste ambiente. Verifique antes de protocolar.
-- **Art. 85, § 10, do CPC** (perda do objeto e causalidade) foi usado por analogia, porque no Juizado não há honorários em 1º grau; se preferir, retire.
-- **Herval:** as duas rés dizem que a fábrica autorizou a troca em 12/06/2026, seis dias antes do ajuizamento. Isso pode ser usado por elas para dizer que houve solução antes da ação. O recurso responde que a troca só foi efetivada em 15/07, depois de 18/06, e que a autorização não encerrou o dano. Convém checar se há prova de quando a consumidora soube dessa autorização.
-- Se a sentença tiver fundamento diferente do que você resumiu (por exemplo, falta de prova do vício ou mero aborrecimento), a seção IV precisa ser reordenada.
+## Pontos críticos antes de protocolar
+1. **Horários manuscritos × metadados das fotos.** No recibo (Doc. 6) está escrito "15/07/26 às 14:30h" e no DANFe (Doc. 7) "em 15/07/26 às 14:10h". Mas as fotografias desses papéis, já com essas anotações, foram registradas pelo celular às **14:04 e 14:06** do mesmo dia. A parte contrária pode explorar isso. **No recurso citei somente a data (15/07/2026), nunca a hora.** Vale você saber explicar (horário do relógio, anotação feita depois, etc.).
+2. **Admissão dos Docs. 4 a 7 (art. 435 do CPC).** Os documentos existiam antes das contestações e não foram juntados na réplica. A Turma pode recusar documento novo. Se já estiverem nos autos, basta citar o Id e eu ajusto. Os fatos centrais (data da troca e do ajuizamento) já se provam pelos documentos da própria Ferreira Costa (DANFe e comprovante de entrega).
+3. **Gratuidade.** A sentença avisa que, no pedido de gratuidade recursal, é preciso juntar "carteira de trabalho, declaração de imposto de renda e assemelhados", **sob pena de preclusão**. Falta o **IRPF em seu nome** (o arquivo `01548804509-IRPF...` da pasta parece ser de outra pessoa) e não sei se você tem CTPS. Hoje só há o DAS de julho/2026 e o comprovante, **em nome da sociedade individual de advocacia** (CNPJ 52.243.754/0001-76), não em seu CPF. A sentença também manda recolher "as custas devidas": **se o juízo indeferir a gratuidade, corre o risco de deserção**. Avalie recolher o preparo em paralelo (48 h após a interposição) ou juntar tudo que a sentença pede.
+4. **"Guia do PROJUDI":** continuo sem saber qual documento você quis dizer. Diga qual é e eu incluo como Doc.
+5. **Declaração de hipossuficiência:** repete o que você me disse (renda média de ~R$ 5.000; a advocacia ainda não garante o sustento). Confirme se bate com os documentos antes de assinar (art. 100, parágrafo único, do CPC prevê multa em caso de má-fé).
+
+## Prazo
+Publicação em 29/09/2026. 10 dias úteis (arts. 42 e 12-A da Lei 9.099); contando de 30/09 e descontado o feriado de 12/10, o último dia seria **14/10/2026**. Confirme no PROJUDI.
+
+## Conferir também
+- **REsp 1.634.851/RJ e REsp 1.737.412/SE** vêm da sua inicial; não consegui verificá-los em stj.jus.br neste ambiente.
+- A Herval afirma (contestação, item 14) que a Ferreira Costa só encaminhou o pedido a ela em **10/06/2026** e que autorizou em **12/06**. Usei isso como admissão da demora (69 dias depois da reclamação), mas a Herval não juntou prova legível disso no texto que consegui ler.
+- A réplica de 28/07 (Ferreira Costa) diz "107 dias" entre 02/04 e a troca; o correto é **104 dias** (107 só a partir de 30/03). O recurso usa os números corretos.
