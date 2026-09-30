@@ -6,7 +6,7 @@
 ## Prazo (conferir no PROJUDI)
 - Sentença de **improcedência: 25/09/2026**. Disponibilizada 28/09; publicada **29/09/2026** (Jusbrasil/DJe).
 - Recurso inominado: **10 dias úteis** (arts. 42 e 12-A da Lei 9.099/95). Contando de 30/09 e descontado o feriado de 12/10, o último dia seria **14/10/2026**. Não deixe para o fim; e confirme a contagem no sistema.
-- Preparo: normalmente em 48 horas da interposição (art. 42, § 1º). Com o pedido de gratuidade dentro do recurso, o art. 99, § 7º, CPC dispensa a comprovação prévia do preparo, mas **só apostei nisso se você juntar tudo com o recurso**.
+- Preparo: normalmente em 48 horas da interposição (art. 42, § 1º). Com o pedido de gratuidade dentro do recurso, o art. 99, § 7º, CPC dispensa a comprovação prévia do preparo. Por segurança, junte a declaração e os comprovantes no mesmo protocolo do recurso.
 
 ## O que NÃO consegui fazer / preciso de você
 1. **Não tenho a sentença nem os autos baixados.** Não estão no Drive nem no ambiente da sessão (o download ficou só no seu computador). O recurso foi montado a partir da inicial, das defesas, das réplicas e dos e-mails da pasta `SIMONE X FERREIRA COSTA`, e do que você me disse sobre a fundamentação. Há **um `[CONFERIR]` no item III**, para transcrever o trecho da sentença. Se você soltar o PDF dos autos na pasta, eu ajusto os argumentos ao texto exato do juízo.
