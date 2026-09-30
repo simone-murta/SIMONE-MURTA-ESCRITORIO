@@ -39,3 +39,7 @@ Publicação em 29/09/2026. 10 dias úteis (arts. 42 e 12-A da Lei 9.099); conta
 - **Declaração integrada ao RI:** não há mais arquivo separado. A 1ª parte da peça (endereçada ao Juízo da 20ª Vara) traz tempestividade, o tópico II de gratuidade e a DECLARAÇÃO da Recorrente sob as penas da lei; depois de quebra de página vêm as **Razões**, endereçadas à Turma Recursal.
 - **Nova numeração:** Doc. 1 comprovantes da advocacia; Doc. 2 IRPF + contracheques jul/ago 2026; Docs. 3 a 6 provas da entrega (recibo, ordem interna, caixa, DANFe). Anexos: `03_Anexos_Docs_3_a_6_Entrega_15-07-2026.pdf`.
 - Mercado/farmácia: R$ 3.000,00/mês (estimativa informada pela Dra. Simone, sem comprovação, dito na peça). Pendentes no texto: `[CONFERIR]` (data da conta Asaas), data do protocolo.
+
+## Alerta – PGDAS-D ago/2026 (30/09/2026)
+- O PGDAS-D de 08/2026 (recibo 01.07.26264.0014245-4) mostra receita declarada **R$ 0,00 de 01/2025 a 05/2026**; só aparecem 06/2026 (R$ 10.466,58) e 07/2026 (R$ 5.877,31); RBA 2026 = R$ 22.581,20. O IRPF 2025 também não traz rendimento da advocacia.
+- Por isso a peça **não afirma mais** que o saldo Asaas (R$ 32.744,95) veio de 3 anos de atividade: diz apenas que integra o caixa da sociedade. Confirmar a origem com o contador antes de protocolar; decidir se o PGDAS-D entra no Doc. 1.
