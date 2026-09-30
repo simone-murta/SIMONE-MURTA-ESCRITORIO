@@ -27,3 +27,10 @@ Publicação em 29/09/2026. 10 dias úteis (arts. 42 e 12-A da Lei 9.099); conta
 - **REsp 1.634.851/RJ e REsp 1.737.412/SE** vêm da sua inicial; não consegui verificá-los em stj.jus.br neste ambiente.
 - A Herval afirma (contestação, item 14) que a Ferreira Costa só encaminhou o pedido a ela em **10/06/2026** e que autorizou em **12/06**. Usei isso como admissão da demora (69 dias depois da reclamação), mas a Herval não juntou prova legível disso no texto que consegui ler.
 - A réplica de 28/07 (Ferreira Costa) diz "107 dias" entre 02/04 e a troca; o correto é **104 dias** (107 só a partir de 30/03). O recurso usa os números corretos.
+
+
+## Atualização – gratuidade (30/09/2026, tarde)
+- Item II do RI reescrito com **todas as fontes de renda** (decisão da Dra. Simone: manter gratuidade, com transparência). Base documental lida: IRPF 2026 (ano-base 2025), contracheque SESAB 08/2026 (líquido R$ 3.580,05), cartão CNPJ ATIVA (13/07/2026), DAS 06–08/2026, recebíveis 06–08/2026.
+- Declaração de hipossuficiência (Doc. 1) refeita: **preencher** `R$ [INFORMAR]` (mercado/farmácia estimados, sem prova) e **[CONFERIR]** data de abertura da conta Asaas (origem do saldo de R$ 32.744,95).
+- Numeração: Doc. 1 declaração; Doc. 2 advocacia (CNPJ, DAS, recebíveis); Doc. 3 IRPF + contracheque; Docs. 4–7 provas da entrega.
+- Pendências: boleto da escola 2026 (não localizado no e-mail/Drive); explicar "Planserv/Cônjuge" no contracheque versus "sem cônjuge" no IRPF; comprovante de pagamento da DARF de multas PGDAS-D (R$ 106,70); considerar recolher o preparo em paralelo (art. 42, § 1º, Lei 9.099/95) para evitar deserção se a gratuidade for negada.
