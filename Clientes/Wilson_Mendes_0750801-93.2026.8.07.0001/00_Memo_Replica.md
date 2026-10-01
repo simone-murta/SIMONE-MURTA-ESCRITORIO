@@ -26,7 +26,7 @@ Mesmo método de Marcelo no recorte da inicial (ago/2023–ago/2026) ≈ **R$ 97
 - O **Doc. 09 da inicial** ("Parecer Técnico") é papel do escritório, assinado por você; não é de especialista. Por isso a réplica chama o Doc. 12 de parecer do Assistente Técnico e trata o Doc. 09/10 como "demonstrativo/quadro".
 - **Planilha PRECIFEX** (Id. 289019384) não foi recalculada aqui; a tabela da réplica usa só os percentuais informados pela Ré e os índices do quadro.
 - Item V, "Quarta" (VCMH 4,80% e honorários 3,20% no demonstrativo de 2025) vem do parecer de Marcelo; conferir no comunicado de 2025 (Id. 289019370).
-- Datas e referência: "Brasília/DF, ____ de outubro de 2026" em branco.
+- Data da peça: Brasília/DF, 1º de outubro de 2026 (ajustar se protocolar em outra data). Rol de documentos removido a pedido; o Doc. 12 continua citado no texto.
 
 ## Verificação de fontes (WebFetch bloqueado para stj.jus.br, planalto, gov.br/ans; usei busca)
 - **Tema 610/STJ:** REsp 1.361.182/RS, 2ª Seção, prazo trienal para pretensão condenatória decorrente da nulidade de cláusula de reajuste. A inicial cita REsp 1.360.969/RS: conferir o número no stj.jus.br.
