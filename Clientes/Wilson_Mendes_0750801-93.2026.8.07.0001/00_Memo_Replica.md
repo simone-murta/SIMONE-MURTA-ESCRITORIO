@@ -7,6 +7,9 @@
 - Contestação (Id. 292020111, 23/09/2026, Vinicius Silva Conceição/Lucas Reis Lima) lida na íntegra; decisão de 01/09 (Id. 289152253); inicial; Quadro Demonstrativo (Id. 289019381); parecer de Marcelo Ever de Almeida (MBW), 28/09/2026 → **Doc. 12**.
 - **Anexos da Ré (Ids 292020114 a 292020142) NÃO foram lidos** (o Drive só trouxe o PDF da contestação). A réplica só afirma o que a contestação diz: que anexa as CGA (item 48) e protocolos de comunicação à ANS (item 50). **Conferir "SA RELATÓRIO" (Id. 292020141), "SA NOTA EXPLICATIVA" e "OUTROS"**: se algum for relatório de sinistralidade/nota técnica, ajustar o item I(e) e o V.1.
 
+## Estratégia (01/10/2026): sem perícia
+Por decisão da Dra. Simone, a réplica **dispensa a prova pericial** e pede julgamento antecipado (art. 355, I, CPC). Tese central: **falso coletivo → reajustes pelos índices da ANS** (questão de direito; novo parágrafo no item IV.2). A discussão sobre lastro/sinistralidade ficou **subsidiária** (item V) e a inversão do ônus/exibição de documentos é pedido subsidiário (item X e pedido 5). O valor definitivo é apurado em liquidação, por cálculo aritmético. Atenção: a inicial protestava por perícia e requeria reajustes "ou outro que vier a ser apurado em perícia" (d.4/d.5); a réplica avisa que dispensa.
+
 ## Decisão sobre valores (e por que NÃO usei "setembro/2026")
 A diferença entre inicial (R$ 110.108,71 / R$ 4.686,30) e parecer de Marcelo (R$ 101.455,00 / R$ 5.067,77) se explica por **dois critérios**, conferidos nas planilhas:
 1. **Base de cálculo:** Marcelo incorpora **8,14%** (ciclo 2020, suspenso pelo Comunicado DICOL/ANS 85/2020 e recomposto em 2021); a inicial não incorporou. R$ 4.686,30 × 1,0814 = R$ 5.067,77.
