@@ -9,3 +9,5 @@
 | `Simone_x_FerreiraCosta_Herval_0133250-09.2026.8.05.0001/` | Recurso inominado + pedido de gratuidade + declaração de hipossuficiência | Pronto para revisão; **prazo até ~14/10/2026**; falta IRPF para a gratuidade e o "guia do PROJUDI" (ver notas); anexos com as provas da entrega de 15/07 |
 
 Timbrado: template `1__MODELO_FOLHA_A4.docx` (cabeçalho/rodapé e `sectPr` originais). Fonte do corpo: Arial, como no template.
+
+**Convenção:** toda peça entregue também deve ir, em Word, para a pasta do cliente no Drive (ex.: Wilson → "Wilson x Bradesco", id `17-crjYCxAvfwZPsC1Wz0xVmkN6S-ME7d`). Limitação conhecida: o conector do Drive só aceita arquivo binário em base64 dentro da própria chamada, o que inviabiliza o upload do .docx do timbrado (≈11 MB com fontes embutidas; ≈46 KB mesmo sem elas). Enquanto isso, copiar manualmente de `Clientes/<cliente>/`.
