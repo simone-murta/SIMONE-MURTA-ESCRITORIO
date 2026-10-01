@@ -1,26 +1,44 @@
 # Wilson Coelho Mendes e família × Bradesco Saúde — Réplica
 
 **Processo:** 0750801-93.2026.8.07.0001 · 1ª Vara Cível de Brasília (TJDFT, PJe) · valor da causa R$ 110.108,71
-**Autores:** Antonio Wilson Silva Mendes, Marcia Beatriz Furtado Coelho, Ana Beatriz Coelho Mendes, Wilson Coelho Mendes e Antonio W S Mendes Consultoria (estipulante)
+**Status (01/10/2026): réplica REDIGIDA** — `01_Replica_Wilson_Mendes_x_Bradesco_Saude.docx` / `.pdf` (14 págs.). Falta conferir os itens abaixo antes de protocolar.
 
-**Status: réplica NÃO redigida.** A contestação do Bradesco não está no Drive, no e-mail nem em nenhum local que eu alcance, e o PJe/PROJUDI aberto não está visível para mim. Sem ela eu teria de adivinhar as teses da ré, e não vou inventar. Assim que a contestação (PDF) estiver na pasta, redijo a réplica.
+## Base usada
+- Contestação (Id. 292020111, 23/09/2026, Vinicius Silva Conceição/Lucas Reis Lima) lida na íntegra; decisão de 01/09 (Id. 289152253); inicial; Quadro Demonstrativo (Id. 289019381); parecer de Marcelo Ever de Almeida (MBW), 28/09/2026 → **Doc. 12**.
+- **Anexos da Ré (Ids 292020114 a 292020142) NÃO foram lidos** (o Drive só trouxe o PDF da contestação). A réplica só afirma o que a contestação diz: que anexa as CGA (item 48) e protocolos de comunicação à ANS (item 50). **Conferir "SA RELATÓRIO" (Id. 292020141), "SA NOTA EXPLICATIVA" e "OUTROS"**: se algum for relatório de sinistralidade/nota técnica, ajustar o item I(e) e o V.1.
 
-## O que já sei do processo
-- Distribuído em 31/08/2026. **Liminar indeferida em 01/09/2026** (juiz Redivaldo Dias Barbosa): (i) reajustes desde nov/2021, sem urgência pelo tempo decorrido; (ii) "não é possível aquilatar, à luz dos elementos da inicial, que o réu tenha deixado de observar os limites da ANS"; audiência de conciliação não designada.
-- Movimentos PJe Push: 23/09 (movimento), 24/09 (expedição de certidão), 28/09 (disponibilizado no DJe), **29/09 certidão publicada em 30/09**. Provável marco do prazo da réplica; conferir no PJe qual é a certidão (juntada de contestação?).
-- **Prazo estimado da réplica (arts. 350/351 e 219 do CPC): 15 dias úteis.** Se o termo inicial for 01/10/2026, cai por volta de **22/10/2026**, descontado o feriado de 12/10. Confirmar no PJe, não use esta data sem conferir.
+## Decisão sobre valores (e por que NÃO usei "setembro/2026")
+A diferença entre inicial (R$ 110.108,71 / R$ 4.686,30) e parecer de Marcelo (R$ 101.455,00 / R$ 5.067,77) se explica por **dois critérios**, conferidos nas planilhas:
+1. **Base de cálculo:** Marcelo incorpora **8,14%** (ciclo 2020, suspenso pelo Comunicado DICOL/ANS 85/2020 e recomposto em 2021); a inicial não incorporou. R$ 4.686,30 × 1,0814 = R$ 5.067,77.
+2. **Recorte:** Marcelo conta 36 meses até out/2026 (nov/2023–out/2026); a inicial, 37 meses até o ajuizamento (ago/2023–ago/2026).
+Mesmo método de Marcelo no recorte da inicial (ago/2023–ago/2026) ≈ **R$ 97.048** (cálculo meu; conferir). A réplica **mantém o valor da inicial**, apresenta o parecer como cenário mais conservador e remete o valor final à perícia. Riscos: a Ré pode usar a diferença; se preferir, remover o item VII.2(i) e deixar só "valor a apurar em perícia".
+- Na tutela, pedi subsidiariamente **R$ 5.067,77** (parâmetro de Marcelo). Retire se não quiser.
 
-## Pontos que a réplica deve enfrentar (extraídos da decisão de 01/09 e do parecer novo)
-1. **Tempo decorrido/urgência:** mostrar a mensalidade atual (R$ 8.801,90 vs. R$ 4.686,30 ou R$ 5.067,77, ver nº 2) e reiterar a tutela com base no parecer de 28/09/2026 (fato novo de prova).
-2. **Divergência de números entre a inicial e o parecer de 28/09/2026 (Marcelo Ever de Almeida, MBW):**
-   - Inicial: restituição **R$ 110.108,71**; mensalidade recalculada **R$ 4.686,30**.
-   - Parecer novo: restituição **R$ 101.455,00** (36 meses); mensalidade recalculada **R$ 5.067,77** (base out/26).
-   - Decidir qual número sustentar, ou explicar a diferença, antes de juntar o parecer. Não misture os dois.
-3. **Erro material na inicial:** o reajuste de nov/2023 aparece como **25,30%** na tabela IV.2 e no pedido d.2, mas como **23,79%** no item V.5 e no parecer novo. O cálculo confere com **23,79%** (R$ 3.016,97 ÷ R$ 2.437,17). Corrigir na réplica.
-4. **Limites da ANS/ônus da prova:** o juiz disse não ser possível aferir a inobservância dos limites da ANS. A réplica deve insistir na inversão do ônus (art. 6º, VIII, CDC) e na exibição de nota técnica, relatório de sinistralidade e agrupamento (RN 565/2022).
-5. **Cuidado com a citação de jurisprudência no parecer novo:** ele afirma que o **Tema 1016/STJ** "reconhece como abusivos os reajustes que discriminem o idoso". Não consegui verificar essa descrição em fonte oficial (stj.jus.br); não a reproduza sem conferir. O Tema 952/STJ (faixa etária) está na inicial.
+## Ajustes pedidos a Marcelo antes de juntar o Doc. 12
+- Título ainda diz **"Modelo de Laudo Pericial"**.
+- Trecho do **Tema 1016/STJ** ("reconhece como abusivos os reajustes que discriminem o idoso") não confere com a tese: o Tema 1016 (REsp 1.716.113/DF, 2ª Seção, 23/03/2022) estendeu aos planos coletivos as teses do Tema 952. Pedir a retirada; a réplica já diz que o parecer é usado só no conteúdo técnico.
+- Ele se qualifica como pós-graduado em Gestão da Atenção à Saúde/contador, **não como atuário**: na peça é "Assistente Técnico". Perícia atuarial = perito nomeado.
+- Tabela dele traz **out/2023 do Wilson Filho = R$ 677,06** (10% já em out), a nossa traz R$ 615,49 (10% só em nov). Conferir na fatura de out/2023. Totais de nov/2023 batem (R$ 838,13).
+- A Ré cita "três segurados" (são quatro) e chama a apólice de "SPG", "empresarial" e "por adesão": explorado nos itens IV.1.
 
-## Para eu redigir
-- [ ] Contestação do Bradesco (PDF) + documentos que ela juntou.
-- [ ] Certidão de 29/09/2026 (para fixar o prazo).
-- [ ] Decisão sobre qual valor sustentar (nº 2) e se o parecer de 28/09 entra na réplica.
+## Pontos da réplica a conferir
+- **Erro material 25,30%:** não era erro do quadro; 25,30% é a variação global do prêmio da família em nov/2023 (anual 23,79% + 10% do filho). O erro foi só na tabela IV.2/pedido d.2 da inicial (excesso correto: 14,16%, não 15,67%). Item VII.3 corrige.
+- O **Doc. 09 da inicial** ("Parecer Técnico") é papel do escritório, assinado por você; não é de especialista. Por isso a réplica chama o Doc. 12 de parecer do Assistente Técnico e trata o Doc. 09/10 como "demonstrativo/quadro".
+- **Planilha PRECIFEX** (Id. 289019384) não foi recalculada aqui; a tabela da réplica usa só os percentuais informados pela Ré e os índices do quadro.
+- Item V, "Quarta" (VCMH 4,80% e honorários 3,20% no demonstrativo de 2025) vem do parecer de Marcelo; conferir no comunicado de 2025 (Id. 289019370).
+- Datas e referência: "Brasília/DF, ____ de outubro de 2026" em branco.
+
+## Verificação de fontes (WebFetch bloqueado para stj.jus.br, planalto, gov.br/ans; usei busca)
+- **Tema 610/STJ:** REsp 1.361.182/RS, 2ª Seção, prazo trienal para pretensão condenatória decorrente da nulidade de cláusula de reajuste. A inicial cita REsp 1.360.969/RS: conferir o número no stj.jus.br.
+- **Tema 1016/STJ:** REsp 1.716.113/DF, Rel. Sanseverino, 23/03/2022 (Informativo 730).
+- **Súmula 608/STJ**; **AgInt REsp 1.880.442/SP** (2/5/2022) e **AgInt AREsp 2.085.003/SP** (15/8/2022), ambos Quarta Turma, falso coletivo (já na inicial).
+- **RN ANS 565/2022**: agrupamento obrigatório de contratos com menos de 30 beneficiários (pool de risco, percentual único). **Não citei número de artigo** para o agrupamento; conferir antes, se quiser citar.
+- **ANS 2020:** teto de 8,14% para planos individuais, suspensão set–dez/2020 (Comunicado 85) e recomposição em 12 parcelas em 2021.
+- Os acórdãos do TJDFT e demais precedentes da Ré foram tratados só como a própria contestação os transcreve.
+
+## Prazo e tutela
+- Prazo estimado da réplica: 15 dias úteis (arts. 350/351 e 219 do CPC) a partir da intimação; contestação juntada em 23/09, certidões de 24/09 e 29/09. **Confirmar o termo no PJe** (estimativa anterior: ~22/10/2026, descontado 12/10).
+- O pedido de reexame da tutela (item IX) não reabre o prazo de agravo de instrumento contra a decisão de 01/09, que provavelmente já fluiu.
+
+## Formatação
+Timbrado do template (`sectPr`, cabeçalho e rodapé originais), Arial como no template, espaçamento 1,5. PDF gerado com ReportLab e os banners do timbrado (LibreOffice não roda neste ambiente).
