@@ -77,6 +77,25 @@ número CNJ**, no formato `Cliente x Parte contrária (CNJ)`, ex.: `Wilson Mende
   `cliente a confirmar` em vez de adivinhar, e dizer o motivo.
 - Usar o nome da pasta em `Clientes/` quando existir, para manter um único padrão.
 
+## Formato de cada item de publicação (obrigatório)
+
+Cada processo citado em resumo, tabela ou e-mail deve trazer, além do `Cliente x Parte contrária (CNJ)`:
+
+1. **O que aconteceu**: movimento, órgão, datas (disponibilização/publicação) e origem da informação
+   (tribunal, Juridiq ou Jusbrasil).
+2. **Raciocínio / alertas**: por que o item importa, ou por que parece falso positivo, sempre com o motivo
+   concreto. Ex.: "a Dra. Simone não consta como advogada nos polos listados", "termo encontrado foi o nº
+   antigo, não o nome dela", "o mesmo CNJ aparece com partes diferentes", "teor sigiloso, não veio no aviso",
+   "só veio por uma fonte, validar no DJEN". Quando a Dra. Simone corrigir uma conclusão minha, usar a
+   correção dela e registrar o motivo.
+3. **Diligência sugerida**: passos concretos e numerados do que ela deve fazer (abrir tal peça no PJe,
+   conferir habilitação, ligar para tal órgão, juntar tal documento, decidir X até tal data). Só o que decorre
+   dos dados; o que depender de informação que não tenho, listar como pergunta, sem preencher.
+4. **Prazo** (se houver): triagem, com a regra aplicada e a ressalva de que a contagem final é dela.
+
+Falso positivo provável = dizer "provável falso positivo" **e** a diligência para confirmar (ex.: conferir a
+habilitação nos autos), nunca descartar em silêncio.
+
 ## Marcação de e-mails
 
 Nada é apagado, arquivado ou marcado como lido sem pedido dela.
