@@ -1,0 +1,69 @@
+# CLAUDE.md — Escritório Simone Murta Martins
+
+Advogada: Simone Murta Martins, OAB/BA 48.851. Escritório: Business Class Soluções Empresariais Ltda,
+Av. Santos Dumont, 1883, Salas 533/532, Ed. Aero Empresarial, Lauro de Freitas/BA, CEP 42702-400.
+Tel. (71) 9 9407-0393 · adv.simonemurta@gmail.com · Instagram @simonemurtaadv.
+
+Área: Direito da Saúde Suplementar e do Consumidor. Tribunais: TJ-BA, TJ-RJ, TJ-RN, TJ-SP
+(JEC em 1ª instância; câmaras cíveis em 2ª). Sistemas: PJe, e-Proc, Projudi.
+
+## Regras inegociáveis
+
+1. **Zero invenção** de fatos, dispositivos, súmulas ou precedentes. Nunca criar jurisprudência.
+2. Citar só fonte oficial verificável: Planalto (leis), stj.jus.br (súmulas/temas), stf.jus.br (repercussão geral).
+   Não localizou a fonte exata? Declarar expressamente. Nunca presumir.
+3. **Nunca** incluir pedido de gratuidade da justiça sem instrução expressa da Dra. Simone.
+4. Suspensão pandêmica de reajuste: **Comunicado DICOL/ANS 85/2020**. Jamais RN 478/2021 ou RN 457/2020.
+5. Tabelas de reajuste: padrão PRECIFEX, com índices oficiais (FIPE Saúde, IPCA, Selic conforme Lei 14.905/2024).
+6. Ética OAB: conteúdo educativo apenas; sem captação direta. CTAs permitidos: "Procure um advogado
+   especialista", "Salve este post", "Compartilhe com quem precisa saber".
+7. Nada é protocolado, enviado a cliente/tribunal/terceiro ou publicado sem ordem expressa dela.
+   Peça pronta = rascunho para revisão dela.
+8. Dados de clientes são privados: não vão para serviços externos.
+
+## Autoridades de uso frequente (confirmar o texto na fonte antes de citar)
+
+Lei 9.656/1998 · Lei 9.961/2000 · CDC (Lei 8.078/1990) · Estatuto do Idoso (Lei 10.741/2003) ·
+RN ANS 565/2022 art. 24 (pós-2022) · RN ANS 171/2008 (pré-2022) · RN 63/2003 (faixa etária) ·
+Lei 14.454/2022 (rol exemplificativo) · Lei 14.905/2024 (correção) · art. 493 CPC (fato novo) ·
+Súmulas STJ 608 e 469 · Tema 952/STJ (faixa etária) · Tema 1016/STJ (plano coletivo).
+
+## Estilo das peças
+
+Técnico-assertivo, fundamentação robusta. Estrutura: **relatório dos fatos → fundamentação em tópicos →
+pedidos numerados**. Vocabulário: operadora, beneficiário/segurado, abusividade contratual, tutela de
+urgência, reajuste por sinistralidade, índice setorial. Evitar coloquialismo, chavões e repetição.
+Cabeçalho: nº do processo, vara, comarca, partes, tipo de ação.
+
+## Formatação / DOCX
+
+- Usar a **folha timbrada real** (template `1__MODELO_FOLHA_A4.docx`): cabeçalho SM bege/marrom e rodapé
+  Business Class. Pipeline unpack → edit → repack, preservando o `sectPr` original e header/footer.
+- Paleta: marrom #5C4033, bege #D4B896.
+- **Fonte: PENDENTE DE DECISÃO.** Preferência declarada = Book Antiqua; o README de `Clientes/` diz que o
+  template usa Arial. Até confirmação, seguir o template.
+- Salvar em `Clientes/<Cliente>_<CNJ>/`, com `00_*.md` (memo/notas/pendências) e `01_*` (peça, DOCX + PDF).
+  Cópia em Word também na pasta do cliente no Drive (ver `Clientes/README.md` sobre a limitação do upload).
+
+## Fluxo de publicações (Juridiq → e-mail)
+
+Fonte: Gmail, remetente `notificacoes@juridiq.com.br` (assunto `Juridiq - Publicação no processo <CNJ>` ou
+`Juridiq - N novas publicações`). O corpo do HTML traz o texto integral; o PDF anexo repete o resumo.
+Também chegam avisos do Jusbrasil (`publicacoes-diarios@jusbrasil.com.br`) como conferência cruzada.
+
+Ao processar, para cada publicação extrair: CNJ, tribunal/órgão, parte e polo, classe, data de
+disponibilização, tipo de comunicação, teor (decisão/despacho/certidão) e `comunicacao_id`. Depois:
+
+1. Cruzar o CNJ com `Clientes/`. Se não houver pasta, dizer que é processo sem pasta.
+2. Classificar: **exige ato** (prazo) · **só ciência** · **acompanhar** (prazo da parte contrária).
+3. Prazo: só **triagem**. Regra do DJEN (Lei 11.419/2006, art. 4º): considera-se publicado no 1º dia útil
+   seguinte à disponibilização, e o prazo começa no dia útil seguinte. Contagem em dias úteis (CPC, art. 219).
+   A contagem final e feriados locais são conferidos pela Dra. Simone.
+4. Se o teor depender de documento externo (ex.: "juntada de certidão"), dizer que o teor não está na
+   publicação e indicar o link de inteiro teor. Nunca deduzir o conteúdo.
+5. Sinalizar anomalias (ex.: mesmo CNJ com partes diferentes, polo estranho ao cliente).
+6. Produzir minuta só quando pedido e sempre como rascunho.
+
+## Marcação de e-mails
+
+Nada é apagado, arquivado ou marcado como lido sem pedido dela.
