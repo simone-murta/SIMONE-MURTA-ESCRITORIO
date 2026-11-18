@@ -40,8 +40,10 @@ Cabeçalho: nº do processo, vara, comarca, partes, tipo de ação.
 - Usar a **folha timbrada real** (template `1__MODELO_FOLHA_A4.docx`): cabeçalho SM bege/marrom e rodapé
   Business Class. Pipeline unpack → edit → repack, preservando o `sectPr` original e header/footer.
 - Paleta: marrom #5C4033, bege #D4B896.
-- **Fonte: PENDENTE DE DECISÃO.** Preferência declarada = Book Antiqua; o README de `Clientes/` diz que o
-  template usa Arial. Até confirmação, seguir o template.
+- **Fonte do corpo: Segoe UI** (definida pela Dra. Simone em 18/11/2026; substitui Book Antiqua e Arial).
+  As peças existentes em `Clientes/` foram feitas em Arial e só mudam se ela pedir. Ao gerar DOCX, aplicar
+  Segoe UI nos estilos do corpo, mantendo cabeçalho/rodapé do timbrado. Em PDF gerado no Linux, Segoe UI
+  pode não estar instalada: conferir se houve substituição de fonte antes de entregar.
 - Salvar em `Clientes/<Cliente>_<CNJ>/`, com `00_*.md` (memo/notas/pendências) e `01_*` (peça, DOCX + PDF).
   Cópia em Word também na pasta do cliente no Drive (ver `Clientes/README.md` sobre a limitação do upload).
 
