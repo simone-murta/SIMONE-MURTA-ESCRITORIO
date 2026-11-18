@@ -3,6 +3,11 @@
 **Processo:** 0750801-93.2026.8.07.0001 · 1ª Vara Cível de Brasília (TJDFT, PJe) · valor da causa R$ 110.108,71
 **Status (01/10/2026): réplica REDIGIDA** — `01_Replica_Wilson_Mendes_x_Bradesco_Saude.docx` / `.pdf` (14 págs.). Falta conferir os itens abaixo antes de protocolar.
 
+## Atualização 18/11/2026
+- Informado pela Dra. Simone: **a réplica já foi juntada**. Em 17/11/2026 a **Bradesco** juntou nova petição (push do TJDFT; confirmado por ela que quem assinou foi a Bradesco).
+- Próximo passo definido por ela: **pedir a conclusão dos autos para sentença**. Rascunho: `02_Pedido_Conclusao_Sentenca_Wilson_x_Bradesco.docx` / `.pdf` (fonte Segoe UI no DOCX; no PDF gerado aqui a fonte foi substituída).
+- Conferir antes de protocolar: (i) data/Id da réplica (a minuta não os cita); (ii) o teor da petição da ré de 17/11 (a minuta apenas a menciona); (iii) se a réplica protocolada manteve a dispensa de perícia, pois a minuta afirma isso.
+
 ## Base usada
 - Contestação (Id. 292020111, 23/09/2026, Vinicius Silva Conceição/Lucas Reis Lima) lida na íntegra; decisão de 01/09 (Id. 289152253); inicial; Quadro Demonstrativo (Id. 289019381); parecer de Marcelo Ever de Almeida (MBW), 28/09/2026 → **Doc. 12**.
 - **Anexos da Ré (Ids 292020114 a 292020142) NÃO foram lidos** (o Drive só trouxe o PDF da contestação). A réplica só afirma o que a contestação diz: que anexa as CGA (item 48) e protocolos de comunicação à ANS (item 50). **Conferir "SA RELATÓRIO" (Id. 292020141), "SA NOTA EXPLICATIVA" e "OUTROS"**: se algum for relatório de sinistralidade/nota técnica, ajustar o item I(e) e o V.1.
