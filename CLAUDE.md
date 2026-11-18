@@ -66,6 +66,17 @@ disponibilização, tipo de comunicação, teor (decisão/despacho/certidão) e 
 5. Sinalizar anomalias (ex.: mesmo CNJ com partes diferentes, polo estranho ao cliente).
 6. Produzir minuta só quando pedido e sempre como rascunho.
 
+## Identificação de processos (regra de apresentação)
+
+Sempre que citar um processo em resumo, tabela, e-mail ou memo, escrever **o nome do cliente ao lado do
+número CNJ**, no formato `Cliente x Parte contrária (CNJ)`, ex.: `Wilson Mendes x Bradesco Saúde (0750801-93.2026.8.07.0001)`.
+- Cliente = a parte representada pela Dra. Simone, identificada pelo polo em que ela atua nos dados da
+  publicação, e não pelo primeiro nome listado.
+- Se houver mais de um cliente no mesmo CNJ, listar todos.
+- Se não for possível identificar o cliente com segurança (polo ambíguo, iniciais, sem pasta), escrever
+  `cliente a confirmar` em vez de adivinhar, e dizer o motivo.
+- Usar o nome da pasta em `Clientes/` quando existir, para manter um único padrão.
+
 ## Marcação de e-mails
 
 Nada é apagado, arquivado ou marcado como lido sem pedido dela.
